@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedanHealth GIS — Dashboard Persebaran Rumah Sakit</title>
+
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <header class="navbar">
+    <div class="brand">
+   
+      <div class="brand-text">
+        <h1>MedanHealth</h1>
+        <span>Dashboard Spasial Fasilitas Kesehatan Kota Medan</span>
+      </div>
+    </div>
+
+    <div class="nav-badges">
+      <span class="sdg-pill sdg-11">SDG 11 · Kota Berkelanjutan</span>
+      <span class="sdg-pill sdg-9">SDG 9 · Infrastruktur</span>
+      <button id="toggle-sidebar-btn" class="btn-mobile-panel" aria-label="Buka/Tutup Panel Data">
+        Panel Data
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Dashboard Layout -->
+  <div class="dashboard-wrapper">
+    <!-- Sidebar Analitik & Daftar -->
+    <aside id="sidebar" class="sidebar">
+      <!-- Ringkasan KPI Cards -->
+      <section class="panel-section">
+        <div class="section-header">
+          <h2>Ringkasan Fasilitas</h2>
+          <span id="total-badge" class="count-pill">0 Titik</span>
+        </div>
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <span class="kpi-dot" style="background:#dc2626;"></span>
+            <div>
+              <strong id="kpi-pemerintah">0</strong>
+              <small>Pemerintah / TNI</small>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-dot" style="background:#2563eb;"></span>
+            <div>
+              <strong id="kpi-umum">0</strong>
+              <small>RS Umum</small>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-dot" style="background:#7c3aed;"></span>
+            <div>
+              <strong id="kpi-khusus">0</strong>
+              <small>RS Khusus / RSIA</small>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-dot" style="background:#16a34a;"></span>
+            <div>
+              <strong id="kpi-klinik">0</strong>
+              <small>Puskesmas / Klinik</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Kontrol Pencarian & Filter -->
+      <section class="panel-section">
+        <h2>Pencarian & Filter</h2>
+        <div class="filter-controls">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Cari nama RS atau jalan..."
+            aria-label="Cari nama rumah sakit"
+          />
+          <select id="kategori-filter" aria-label="Filter kategori fasilitas">
+            <option value="SEMUA">Semua Kategori</option>
+            <option value="RS Pemerintah / TNI">RS Pemerintah / TNI</option>
+            <option value="RS Umum">RS Umum</option>
+            <option value="RS Khusus / RSIA">RS Khusus / RSIA</option>
+            <option value="Puskesmas / Klinik">Puskesmas / Klinik</option>
+          </select>
+          <label class="checkbox-igd">
+            <input type="checkbox" id="igd-only-checkbox" />
+            <span>Hanya yang terdata IGD 24 Jam</span>
+          </label>
+        </div>
+      </section>
+
+      <!-- Daftar Fasilitas Interaktif -->
+      <section class="panel-section list-section">
+        <div class="section-header">
+          <h2>Daftar Lokasi</h2>
+          <button id="reset-view-btn" class="btn-text">Reset Peta</button>
+        </div>
+        <ul id="facility-list" class="facility-list">
+          <!-- Diisi otomatis oleh app.js -->
+        </ul>
+      </section>
+
+      <!-- Atribusi Data -->
+      <footer class="sidebar-footer">
+        <strong>Masalah Spasial:</strong> Distribusi aksesibilitas layanan kesehatan terhadap pemukiman Kota Medan.<br />
+        <strong>Sumber:</strong> OpenStreetMap (Overpass Turbo, ODbL).
+      </footer>
+    </aside>
+
+    <!-- Area Peta Utama -->
+    <main class="map-container">
+      <div id="map"></div>
+    </main>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

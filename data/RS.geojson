@@ -1,0 +1,1385 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-17T06:19:20Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/8759835",
+      "properties": {
+        "@id": "relation/8759835",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Tni Angkatan ara dr Abdul Malik Mdn",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6775222,
+          3.5716357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/12919657",
+      "properties": {
+        "@id": "relation/12919657",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Putri Hijau Medan",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6726366,
+          3.5997742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275238208",
+      "properties": {
+        "@id": "way/275238208",
+        "addr:city": "Medan",
+        "addr:street": "Jalan Harmonika Baru",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Rumah Sakit Susana Wesley",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.638708,
+          3.5554578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275292644",
+      "properties": {
+        "@id": "way/275292644",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSJ Prof DR Muhammad Ildrem",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6295736,
+          3.5211527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275295457",
+      "properties": {
+        "@id": "way/275295457",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Bunga Lau No. 17, Medan",
+        "addr:housenumber": "17",
+        "addr:postcode": "20136",
+        "addr:street": "Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RSUP H. Adam Malik",
+        "name:etymology:wikidata": "Q76297",
+        "name:etymology:wikipedia": "id:Adam Malik",
+        "operator:type": "government",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6083221,
+          3.5181828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288696594",
+      "properties": {
+        "@id": "way/288696594",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Mata 77 Sei Mencirim",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6544548,
+          3.5806968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288720866",
+      "properties": {
+        "@id": "way/288720866",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Bhayangkara Medan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6590224,
+          3.572399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288721154",
+      "properties": {
+        "@id": "way/288721154",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Setia Budi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6433928,
+          3.5733193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288740646",
+      "properties": {
+        "@id": "way/288740646",
+        "amenity": "hospital",
+        "building:levels": "3",
+        "capacity:persons": "1000",
+        "healthcare": "hospital",
+        "name": "RS. Permata Bunda",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6857521,
+          3.5806596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289693312",
+      "properties": {
+        "@id": "way/289693312",
+        "alt_name": "RSU Methodist",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Methodist",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6928578,
+          3.5836614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292395661",
+      "properties": {
+        "@id": "way/292395661",
+        "addr:city": "Medan",
+        "addr:housenumber": "64",
+        "addr:street": "Jalan H.M. Joni",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "2",
+        "contact:facebook": "Rsu Bhakti",
+        "contact:instagram": "https://www.instagram.com/rsu_bhakti/",
+        "contact:phone": "+62 61 7366588",
+        "contact:youtube": "RSU Bhakti",
+        "name": "Rumah Sakit Umum Bhakti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7017002,
+          3.5682994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/324882577",
+      "properties": {
+        "@id": "way/324882577",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Listrik Nomor 2A",
+        "addr:postcode": "20112",
+        "addr:street": "Jalan Listrik",
+        "amenity": "hospital",
+        "capacity:persons": "227",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Columbia Asia",
+        "operator:type": "private",
+        "website": "https://www.columbiaasia.com/indonesia/hospitals/medan/overview",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6769592,
+          3.5858835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326373079",
+      "properties": {
+        "@id": "way/326373079",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "RSUD Dr Pirngadi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6883124,
+          3.5979043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474275544",
+      "properties": {
+        "@id": "way/474275544",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Herna",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6655435,
+          3.5794877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474283605",
+      "properties": {
+        "@id": "way/474283605",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "IGD RSU Herna",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6661635,
+          3.5798419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/556457015",
+      "properties": {
+        "@id": "way/556457015",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Prof Dr Boloni",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6687587,
+          3.5706583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/577454865",
+      "properties": {
+        "@id": "node/577454865",
+        "amenity": "hospital",
+        "name": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.690098,
+          3.5329858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/630045134",
+      "properties": {
+        "@id": "way/630045134",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSIA Artha Mahinrus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6913121,
+          3.6164374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/631423734",
+      "properties": {
+        "@id": "way/631423734",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Tere Margareth",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6264997,
+          3.5608284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/631695399",
+      "properties": {
+        "@id": "way/631695399",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Umum Muhammadiyah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7109914,
+          3.5830396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/631922574",
+      "properties": {
+        "@id": "way/631922574",
+        "addr:city": "Kota Medan",
+        "addr:housenumber": "Jl. Sisingamangaraja, Harjosari I, Medan Amplas",
+        "addr:postcode": "20148",
+        "addr:street": "Sisingamangaraja",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RSU. Mitra Medika-Amplas",
+        "phone": "+62 61 7879070",
+        "website": "http://mitramedika-amplas.co.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7119183,
+          3.5381626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/634253253",
+      "properties": {
+        "@id": "way/634253253",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Ibu Dan Anak Badrul Aini Tegal Sari Iii",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7057994,
+          3.5773275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636180036",
+      "properties": {
+        "@id": "way/636180036",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Umum Ridos Medan Tenggara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7177672,
+          3.5560422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636226848",
+      "properties": {
+        "@id": "way/636226848",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RS Estomihi Sudirejo II",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6953439,
+          3.5568256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636349873",
+      "properties": {
+        "@id": "way/636349873",
+        "addr:full": "Jalan A.H Nasution No. 7 Pangkalan Mansyur medan",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Mitra Sejati",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6795867,
+          3.5408509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/650842022",
+      "properties": {
+        "@id": "way/650842022",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSIA Sri Ratu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6650881,
+          3.5908524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/670863683",
+      "properties": {
+        "@id": "way/670863683",
+        "addr:city": "Medan",
+        "addr:full": "Hm. joni",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:floor": "ceramics",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "lebih dari 500",
+        "name": "Rumah Sakit Ibnu Saleh",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7010783,
+          3.5687971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/750324766",
+      "properties": {
+        "@id": "way/750324766",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Sei Batang Hari No. 28-30-42 Medan",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "fixme": "building shape guessed",
+        "name": "Rumah Sakit Umum Bunda Thamrin",
+        "operator:type": "private",
+        "website": "https://www.bundathamrin.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6514744,
+          3.5853031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782884327",
+      "properties": {
+        "@id": "way/782884327",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Samanhudi No. 20 Medan, Sumatera Utara - Indonesia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSIA Stella Maris",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6807874,
+          3.5726869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782896313",
+      "properties": {
+        "@id": "way/782896313",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Gatot Subroto No.Km 4, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118",
+        "addr:postcode": "20118",
+        "addr:street": "Jalan Jenderal Gatot Subroto",
+        "amenity": "hospital",
+        "check_date": "2026-08-07",
+        "name": "RS Advent Medan",
+        "operator:type": "private",
+        "phone": "+62614574025",
+        "website": "https://rsadventmedan.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6498371,
+          3.5895954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782914980",
+      "properties": {
+        "@id": "way/782914980",
+        "addr:full": "Jalan Ayahanda Nomor 68A, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118",
+        "amenity": "hospital",
+        "name": "RSU Royal Prima",
+        "operator:type": "private",
+        "website": "https://www.royalprima.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6544172,
+          3.5978686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/782970770",
+      "properties": {
+        "@id": "way/782970770",
+        "addr:full": "Jalan H. Misbah No. 7 Medan, Sumatera Utara",
+        "alt_name": "RS Santa Elisabeth Medan",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Rumah Sakit Santa Elisabeth Medan",
+        "operator:type": "private",
+        "website": "https://rssemedan.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6766377,
+          3.574863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783081946",
+      "properties": {
+        "@id": "way/783081946",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Dr. Mansyur No.66, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Universitas Sumatera Utara",
+        "operator:type": "government",
+        "website": "http://rumahsakit.usu.ac.id/index.php/id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6575228,
+          3.568093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783804774",
+      "properties": {
+        "@id": "way/783804774",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Baja Raya No.10, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Sarah Medan",
+        "operator:type": "private",
+        "website": "https://sarahhospital.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6632509,
+          3.5870688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/784716981",
+      "properties": {
+        "@id": "way/784716981",
+        "addr:city": "Medan",
+        "addr:full": "Jalan Jendral TB. Simatupang No. 148, Sunggal, Medan, Sumatera Utara - Indonesia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Umum Bina Kasih",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6129669,
+          3.578568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/960605793",
+      "properties": {
+        "@id": "way/960605793",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Ibu & Anak Eva",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6971281,
+          3.5843625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/961736599",
+      "properties": {
+        "@id": "way/961736599",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Ginjal Rasyida",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6597465,
+          3.5859885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/961740737",
+      "properties": {
+        "@id": "way/961740737",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Vina Estetica",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6610883,
+          3.5869376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/961782713",
+      "properties": {
+        "@id": "way/961782713",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Laboratorium RSU Bunda Thamrin Medan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6506539,
+          3.5853659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/962091719",
+      "properties": {
+        "@id": "way/962091719",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Royal Maternity General Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6560112,
+          3.5805665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/962164958",
+      "properties": {
+        "@id": "way/962164958",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Materna",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6714139,
+          3.5844422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1018228965",
+      "properties": {
+        "@id": "way/1018228965",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Putri Hijau",
+        "name:en": "Putri Hijau Hospital",
+        "operator:type": "government",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6720442,
+          3.5992254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1026978564",
+      "properties": {
+        "@id": "way/1026978564",
+        "addr:city": "Medan",
+        "addr:housenumber": "24",
+        "addr:street": "Jalan Bilal",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "RSU Imelda",
+        "name:id": "Rumah Sakit Umum Imelda Pekerja Indonesia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6748243,
+          3.6224508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1028878735",
+      "properties": {
+        "@id": "way/1028878735",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Hermina Medan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6281348,
+          3.5952496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1029263433",
+      "properties": {
+        "@id": "way/1029263433",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Siloma Dhirga Surya",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6735967,
+          3.5857643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1040558132",
+      "properties": {
+        "@id": "way/1040558132",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "layer": "1",
+        "name": "RSU Delima",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6729898,
+          3.6963911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1040760662",
+      "properties": {
+        "@id": "way/1040760662",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSUD Medan Labuhan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6761674,
+          3.7349629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1041196779",
+      "properties": {
+        "@id": "way/1041196779",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;stomatology",
+        "name": "RUMKITAL Dr. Komang Makes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6859668,
+          3.7845418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1042977173",
+      "properties": {
+        "@id": "way/1042977173",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Martha Friska",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6687888,
+          3.6334656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1044417482",
+      "properties": {
+        "@id": "way/1044417482",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Martha Friska Multatuli",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6829835,
+          3.5761897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1044794043",
+      "properties": {
+        "@id": "way/1044794043",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Eshmun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6555194,
+          3.6867833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1044809076",
+      "properties": {
+        "@id": "way/1044809076",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Wulan Windi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6593242,
+          3.7084318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1044810186",
+      "properties": {
+        "@id": "way/1044810186",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Royal Prima Marelan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6570372,
+          3.699692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1046392892",
+      "properties": {
+        "@id": "way/1046392892",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Siti Hajar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6602275,
+          3.5714931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1052345515",
+      "properties": {
+        "@id": "way/1052345515",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Murni Teguh",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6814251,
+          3.5906312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1054994358",
+      "properties": {
+        "@id": "way/1054994358",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU. Prima Husada Cipta",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6823319,
+          3.7647496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1058917733",
+      "properties": {
+        "@id": "way/1058917733",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.666626,
+          3.5862625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1226090267",
+      "properties": {
+        "@id": "way/1226090267",
+        "addr:city": "Medan",
+        "addr:housenumber": "Lk.X No.90",
+        "addr:postcode": "20223",
+        "addr:street": "Jl. Letda Sujono",
+        "amenity": "hospital",
+        "building:levels": "8",
+        "healthcare": "hospital",
+        "name": "RS Columbia Asia Aksara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7173217,
+          3.5972718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2725907609",
+      "properties": {
+        "@id": "node/2725907609",
+        "amenity": "hospital",
+        "name": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6931117,
+          3.5631074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3227774063",
+      "properties": {
+        "@id": "node/3227774063",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6883061,
+          3.5859129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3227774085",
+      "properties": {
+        "@id": "node/3227774085",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Islam Malahayati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.672382,
+          3.5865027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3230002508",
+      "properties": {
+        "@id": "node/3230002508",
+        "amenity": "hospital",
+        "name": "Rumah Sakit Umum Melati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6782751,
+          3.6006524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3687942161",
+      "properties": {
+        "@id": "node/3687942161",
+        "amenity": "hospital",
+        "name": "Rumah Sakit Umum Methodist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6385653,
+          3.5555393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4351202177",
+      "properties": {
+        "@id": "node/4351202177",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Mitra Medika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6627123,
+          3.6440279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4364990333",
+      "properties": {
+        "@id": "node/4364990333",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Martha Friska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6689207,
+          3.6335283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9465759460",
+      "properties": {
+        "@id": "node/9465759460",
+        "addr:city": "Medan",
+        "addr:housenumber": "236",
+        "addr:street": "Jalan S. Parman",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "RS Mitra Medika Premiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6666097,
+          3.5862458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9800497938",
+      "properties": {
+        "@id": "node/9800497938",
+        "amenity": "hospital",
+        "name": "Rumah Sakit Hewan Pemprovsu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6219609,
+          3.5923807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9800500297",
+      "properties": {
+        "@id": "node/9800500297",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Prima Vision Eye Hospital",
+        "name:id": "RS Mata Prima Vision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6594963,
+          3.5983989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12299724560",
+      "properties": {
+        "@id": "node/12299724560",
+        "addr:street": "jalan HM Yamin",
+        "amenity": "hospital",
+        "name": "RSUD Pringadi medan",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6883886,
+          3.5980828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14066282401",
+      "properties": {
+        "@id": "node/14066282401",
+        "addr:housenumber": "12",
+        "addr:postcode": "20118",
+        "addr:street": "Jalan Ayahanda",
+        "amenity": "hospital",
+        "check_date": "2026-08-01",
+        "check_date:opening_hours": "2026-08-01",
+        "healthcare": "hospital",
+        "name": "Klinik Adisma Husada [FASKES 1 BPJS]",
+        "opening_hours": "Mo-Sa 08:00-21:30; Su 10:00-20:00",
+        "phone": "+62614153169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6534081,
+          3.5914697
+        ]
+      }
+    }
+  ]
+}
